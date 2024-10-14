@@ -1,0 +1,11 @@
+C:\Users\tkucu\developer\todoapp\core\bin\Debug\net8.0\core.deps.json
+C:\Users\tkucu\developer\todoapp\core\bin\Debug\net8.0\core.dll
+C:\Users\tkucu\developer\todoapp\core\bin\Debug\net8.0\core.pdb
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\core.AssemblyInfoInputs.cache
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\core.AssemblyInfo.cs
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\core.csproj.CoreCompileInputs.cache
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\core.dll
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\refint\core.dll
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\core.pdb
+C:\Users\tkucu\developer\todoapp\core\obj\Debug\net8.0\ref\core.dll
